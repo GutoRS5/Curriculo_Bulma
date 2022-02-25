@@ -14,9 +14,9 @@ Utilizando o framework Bulma para realizar o curriculo e dar uma aparencia mais 
 
 ## Layout
 
-- [Index 1](./assets/img/layout.png);
-- [Index 2](./assets/img/layout-qrcode.png);
-- [Contato](./assets/img/layout-pix.png);
+- [Index 1](./assets/img/Index_1.png);
+- [Index 2](./assets/img/index_2.png);
+- [Contato](./assets/img/contact.png);
 
 ## Referências
 
